@@ -1,0 +1,26 @@
+Ex. 1
+Accepter et clôner l’assignment GitHub du TP 3 pour votre groupe (voir ametice pour le lien).
+
+OK
+
+Ex. 2
+Créer un nouveau package cycles, dans lequel vous rangerez les classes suivantes
+
+OK
+
+Ex. 3
+Soit le diagramme suivant de la figure 1.
+Programmer, puis tester, la classe Velo. Les tests seront programmés dans un main directement dans Velo.
+
+OK
+
+Ex. 4
+Programmer, puis tester la classe VeloElec dans un main directement dans VeloElec.
+
+OK
+
+Ex. 5
+Que signifie “redéfinir une méthode” ?
+
+Lorsqu’on redéfinit une méthode en Java, on écrit dans une classe (ou sous‐classe), une nouvelle version d’une méthode qui existe déjà dans la classe mère (ou super‐classe). On garde le même nom et les mêmes paramètres, mais on change le contenu pour qu’elle se comporte différemment.
+

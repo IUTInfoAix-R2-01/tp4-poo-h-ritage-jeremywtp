@@ -58,3 +58,13 @@ Ex. 11
 Commiter et pusher votre travail.
 
 OK
+
+Ex. 12
+Créer un nouveau package tp3exosYaip4. Y ranger les exercices suivants du §4.
+
+OK
+
+Ex. 13
+Programmer et tester ex. 4.2 de YAIP.
+
+EN COURS

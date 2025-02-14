@@ -38,3 +38,23 @@ Ex. 7
 Que signifie l’annotation @Override, placée parfois avant la définition d’une méthode ?
 
 @Override indique que la méthode redéfinit bien une méthode de la super‐classe (même signature), permettant au compilateur de vérifier qu’il n’y a pas d’erreur.
+
+Ex. 8
+De manière générale, lorsque l’annotation @Override est pertinente dans le code, qu’apporte sa présence ? Dans ce cas, peut-on s’en dispenser ? Tester
+
+L’annotation @Override facilite la détection d’erreurs de redéfinition et améliore la lisibilité mais elle n’est pas obligatoire.
+
+Ex. 9
+Annoter par @Override toutes les méthodes pertinentes, dans les 2 classes.
+
+OK
+
+Ex. 10
+Que signifie l’appel super.getPuissane(FrequenceCoupsDePedale) dans la méthode VeloElec.getPuissane() ?
+
+Cela appelle la version de getPuissance() définie dans la classe mère (Velo) pour obtenir la puissance de base avant de la modifier ou de la compléter dans VeloElec.
+
+Ex. 11
+Commiter et pusher votre travail.
+
+OK

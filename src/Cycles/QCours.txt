@@ -24,3 +24,17 @@ Que signifie “redéfinir une méthode” ?
 
 Lorsqu’on redéfinit une méthode en Java, on écrit dans une classe (ou sous‐classe), une nouvelle version d’une méthode qui existe déjà dans la classe mère (ou super‐classe). On garde le même nom et les mêmes paramètres, mais on change le contenu pour qu’elle se comporte différemment.
 
+Ex. 6
+Quelles méthodes de Velo et VeloElec sont redéfinies ?
+
+Dans Velo : 
+Dans VeloElec : 
+la méthode toString() est redéfinie par rapport à la classe Object
+Dans VeloElec : 
+la méthode getPuissance(double frequenceCoupsDePedale) est redéfinie par rapport à la version de Velo
+La méthode toString() est également redéfinie par rapport à celle héritée de Velo qui elle‐même redéfinissait celle de Object.
+
+Ex. 7
+Que signifie l’annotation @Override, placée parfois avant la définition d’une méthode ?
+
+@Override indique que la méthode redéfinit bien une méthode de la super‐classe (même signature), permettant au compilateur de vérifier qu’il n’y a pas d’erreur.
